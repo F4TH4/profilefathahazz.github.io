@@ -1,0 +1,32 @@
+.box {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background: #fff;
+    border-radius: 20px;
+    border: 2px solid black;
+    min-height: 50vh;
+    padding: 2rem;
+    box-shadow: 0px 0px 20px #525252;
+    
+}
+img {
+    width: 6em;
+    border-radius: 100%;
+}
+
+h1 {
+    font-size: 20px;
+    text-shadow: 0px 0px 4px #525252;
+}
+
+h4 {
+    background: #525252;
+    border-radius: 5px;
+    text-decoration: underline;
+    
+}
+
+h5{
+    text-align: center;
+}
